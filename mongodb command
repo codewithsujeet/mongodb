@@ -8,3 +8,7 @@
 **use db_name**
 5 show the current databases instance
 **db**
+6 delete the mongodb database
+**db.dropDatabase()
+7 create the collection in mongodb server
+**db.createCollection("user")**
