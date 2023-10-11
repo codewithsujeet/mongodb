@@ -1,0 +1,10 @@
+1 start the mongodb server
+ **mongod --version**
+2 connect the mongodb shell to mongodb server
+**mongosh**
+3 show the databases in mongodb 
+**show dbs** || show databases
+4. create or switch the database in mongodb
+**use db_name**
+5 show the current databases instance
+**db**
